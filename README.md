@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software and SEO
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Development
-- 📫 How to reach me infowedestek@gmail.com
+- 📫 How to reach me dopinity@gmail.com
 
 <!---
 cdgncn/cdgncn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
