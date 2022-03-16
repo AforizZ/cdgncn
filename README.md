@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cdgncn
 - 👀 I’m interested in Software and SEO
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Development
+- 🌱 I’m currently learning Python
+- 💞️ My Goal is to Start My Own Company or Work as a Software Engineer at Google
 - 📫 How to reach me dopinity@gmail.com
 
 <!---
