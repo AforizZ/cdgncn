@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @cdgncn
-- 👀 I’m interested in Software and SEO
-- 🌱 I’m currently learning Python
-- 💞️ My Goal is to Start My Own Company or Work as a Software Engineer at Google
+- 👋 Hi, I’m @AforizZ - Can Dogancan
 - 📫 How to reach me dopinity@gmail.com
 
 <!---
